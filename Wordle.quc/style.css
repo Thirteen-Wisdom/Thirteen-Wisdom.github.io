@@ -43,10 +43,6 @@ body {
     margin: 2px;
 }
 
-.key-container button:nth-child(14) {
-    margin-left: 30px;
-}
-
 .key-container button:nth-child(26),
 .key-container button:nth-child(33) {
     width: 68px;
