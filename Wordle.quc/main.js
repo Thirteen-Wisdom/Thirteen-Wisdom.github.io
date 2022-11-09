@@ -37,6 +37,7 @@ const keys = [
     'J',
     'K',
     'K\'',
+    'L',
     'ENTER',
     'X',
     'Ch',
